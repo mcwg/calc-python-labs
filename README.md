@@ -1,7 +1,7 @@
 # Preface
 ---
 
-This collection of interactive Jupyter blah notebooks are intended as a set of labs to accompany a calculus course.
+This collection of interactive Jupyter notebooks are intended as a set of labs to accompany a calculus course.
 
 
 ## A Virtual Lab for Experimenting with Calculus
