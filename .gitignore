@@ -1,0 +1,12 @@
+*.aux
+*.DS_Store
+*.log
+*.tex~
+*.pdf
+**/.ipynb_checkpoints/**
+*.out
+__pycache__/
+
+# quarto files
+/.quarto/
+/_book/
