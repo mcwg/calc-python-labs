@@ -25,7 +25,7 @@ These labs use Python as an additional tool for integrating data science into ca
 
 In addition to the each individual Jupyter notebook in this repo, there is a html version of the materials available at , <https://github.com/mcwg/calc-python-labs/>. You cannot edit the text or run code in the html version, but there is a link to each Jupyter notebook at the start of each section.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab8-Symbolic-Integration.ipynb)<nbsp>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab1-Getting-Started-with-Colab-Python.ipynb)<nbsp>
 
 - At the top of each notebook is a "button" such as the one above.
 - Click the button to open an interactive Jupyter notebook version in [Google Colaboratory](https://colab.research.google.com/) (or Colab).
@@ -73,23 +73,23 @@ If you have any questions, comments, or suggestions about these materials, pleas
 ---
 
 
-- [Lab 1: Getting Started with Colab and Python ](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/01-What-is-a-Differential-Equation.ipynb)
+- [Lab 1: Getting Started with Colab and Python ](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab1-Getting-Started-with-Colab-Python.ipynb)
 
-- [Lab 2: Plotting and Solving Equations](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/02-Slope-Fields.ipynb)
+- [Lab 2: Plotting and Solving Equations](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab2-Plotting-and-Solving-Equations.ipynb)
 
-- [Lab 3: Linear Regression with CO2 Emissions](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/03-Phase-Line.ipynb)
+- [Lab 3: Linear Regression with CO2 Emissions](https://githubtocolab.com/mcwg/calc-python-labs/blob/main//blob/main/Lab3-Linear-Regression.ipynb)
 
-- [Lab 4: Derivatives with Lake Mead Water Level](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/04-Eulers-Method.ipynb)
+- [Lab 4: Derivatives with Lake Mead Water Level](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab4-Derivatives-with-Water-Level.ipynb)
 
-- [Lab 5: Symbolic Differentiation and Marginal Cost](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/05-Separable-Diff-Eqs.ipynb)
+- [Lab 5: Symbolic Differentiation and Marginal Cost](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab5-Symbolic-Differentiation-Marginal-Cost.ipynb)
 
-- [Lab 6: Optimization and Finding the Line of Best Fit](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/06-Integrating-Factors.ipynb)
+- [Lab 6: Optimization and Finding the Line of Best Fit](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab6-Optimization.ipynb)
 
-- [Lab 7: Definite Integrals and Accumulated Change in Lake Mead Water Level](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/07-Mixture-Applications.ipynb)
+- [Lab 7: Definite Integrals and Accumulated Change in Lake Mead Water Level](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab7-Definite-Integrals-and-Accumulated-Change.ipynb)
 
-- [Lab 8: Symbolic Integration and Tracking Change in Position](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/08-Application-Heating-and-Cooling.ipynb)
+- [Lab 8: Symbolic Integration and Tracking Change in Position](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Lab8-Symbolic-Integration.ipynb)
 
-- [Quick Reference Guide on Python Commands](https://githubtocolab.com/CU-Denver-MathStats-OER/ODEs/blob/main/Chp1/ODE-Tools-Tutorial.ipynb)
+- [Quick Reference Guide for Python](https://githubtocolab.com/mcwg/calc-python-labs/blob/main/Python-Quick-Reference.ipynb)
 
 
 ## Creative Commons License Information
@@ -98,5 +98,4 @@ If you have any questions, comments, or suggestions about these materials, pleas
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) <nbsp>
 
-*Exploring Calculus with Python* by [Adam Spiegler (University of Colorado Denver)](https://github.com/mcwg/calc-python-labs) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
+*Exploring Calculus with Python* is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
