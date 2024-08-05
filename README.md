@@ -17,7 +17,7 @@ These labs use Python as an additional tool for integrating data science into ca
 - Explore results to help construct proofs.
 - Confirm analytically derived results.
 - Gain further insight and intuition.
-- **Bridge the divide between theory and practice.**<
+- **Bridge the divide between theory and practice.**
 
 
 ## How to Access, Edit and Save Notebooks
