@@ -77,7 +77,7 @@ If you have any questions, comments, or suggestions about these materials, pleas
 
 - [Lab 2: Plotting and Solving Equations](https://colab.research.google.com/github/mcwg/calc-python-labs/blob/main/Lab2-Plotting-and-Solving-Equations.ipynb)
 
-- [Lab 3: Linear Regression with CO2 Emissions](https://colab.research.google.com/github/mcwg/calc-python-labs/blob/main//blob/main/Lab3-Linear-Regression.ipynb)
+- [Lab 3: Linear Regression with CO2 Emissions](https://colab.research.google.com/github/mcwg/calc-python-labs/blob/main/Lab3-Linear-Regression.ipynb)
 
 - [Lab 4: Derivatives with Lake Mead Water Level](https://colab.research.google.com/github/mcwg/calc-python-labs/blob/main/Lab4-Derivatives-with-Water-Level.ipynb)
 
